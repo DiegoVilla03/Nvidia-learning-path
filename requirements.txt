@@ -1,0 +1,31 @@
+# Core
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# NVIDIA + LangChain
+langchain>=0.2.0
+langchain-nvidia-ai-endpoints>=0.1.0
+langchain-community>=0.2.0
+
+# Vector stores
+faiss-cpu>=1.7.4
+pymilvus>=2.4.0
+
+# Embeddings y utilidades
+numpy>=1.26.0
+scikit-learn>=1.4.0
+
+# Evaluación
+ragas>=0.1.0
+
+# Guardrails
+nemoguardrails>=0.8.0
+
+# Servidor de producción
+fastapi>=0.111.0
+uvicorn>=0.30.0
+
+# Notebooks
+jupyter>=1.0.0
+matplotlib>=3.8.0
+umap-learn>=0.5.0
