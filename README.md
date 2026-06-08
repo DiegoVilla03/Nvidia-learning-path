@@ -40,8 +40,8 @@ nvidia-llm-path/
 
 ## Progreso
 
-- [ ] 00 — Setup y primera llamada a NIM
-- [ ] 01 — NIM API: chat, streaming, parámetros
+- [x] 00 — Setup y primera llamada a NIM
+- [x] 01 — NIM API: chat, streaming, parámetros
 - [ ] 02 — Embeddings con NV-Embed-v2
 - [ ] 03 — Vector stores: FAISS → Milvus Lite → cuVS
 - [ ] 04 — RAG básico end-to-end
@@ -49,6 +49,4 @@ nvidia-llm-path/
 - [ ] 06 — NeMo Guardrails
 - [ ] 07 — Pipeline de producción
 
----
 
-*Aprendizaje progresivo — cada módulo construye sobre el anterior.*
